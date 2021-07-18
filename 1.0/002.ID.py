@@ -4,7 +4,7 @@ print(v1)
 print("\n")
 
 v2 , v3 , v4 = 200 , 300, 400
-
+   
 print(id(v2))
 print(id(200))
 print("\n")
