@@ -1,0 +1,12 @@
+# Python data types.
+
+strings
+numbers
+boolean
+lists
+sets
+frozensets
+tuples
+ranges
+dictionaries
+None
