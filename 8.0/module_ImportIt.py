@@ -6,3 +6,6 @@ var1 = "this is from Module"
 
 def func(a,b,c):
     print(2*3*4)
+
+def func2():
+    print("second function")
