@@ -47,6 +47,15 @@ print("\n")
 str2 = "22.22.22.1     0    b4:a9:5a:ff:c8:45 VLAN#222      L"
 matchObj4 = re.search(r"(.+?) +(\d) +(.+?)\s{2,}(\w)*",str2)
 
+'''result is '22.22.22.1'; 'r' means the pattern should be treated like a raw string;
+any pair of parentheses indicates the start and the end of a group;
+if a match is found for the pattern inside the parentheses,
+then the contents of that group can be extracted with the group() method applied to the match object;
+in regex syntax, a dot represents any character, except a new line character;
+the plus sign means that the previous expression, which in our case is just a dot, may repeat one or more times;
+the question mark matching as few characters as possible
+'''
+
 print(matchObj4.group(1) + " ----->   group 1" )
 print(len(matchObj4.group(1)))
 
