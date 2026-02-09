@@ -1,4 +1,7 @@
 '''
+
+CLASSES OOP
+
 - Object oriented programming is based on classes, methods and objects.
 - class is like a variable of its own type containings - variable attributes and funcations (methods).
 - Class is like a blueprint for creating an object.
