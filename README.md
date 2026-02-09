@@ -1,3 +1,4 @@
-# Python_Basics
+# Python Programs
 
-Some python programs being practiced and stored in GIT hub
+Some python programs to brush up
+
