@@ -15,4 +15,4 @@ print(str[::2]) #02468
 print(str[1::2]) #13579
 print(str[1:7:2]) #135
 
-print("\n\n")
+
