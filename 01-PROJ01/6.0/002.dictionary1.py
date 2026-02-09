@@ -1,3 +1,5 @@
+# REFER 
+
 d = {"name": "naam", "age":12, "city":"bangalore"}
 print(d)
 print(type(d)) #<class 'dict'>
