@@ -1,6 +1,6 @@
 import csv
 
-filePath= "C:\\Users\\Veeresh\\Documents\\LinkedInLearning\\Python\\Ex_Files_Using_Python_for_Automation\\Ex_Files_Using_Python_for_Automation\\Exercise Files\\My_Practice\\05.parseData\\groceries.csv"
+filePath= "<PATH>\groceries.csv"
 
 with open(filePath,"r") as fileHandle:
     csvReader=csv.reader(fileHandle)
